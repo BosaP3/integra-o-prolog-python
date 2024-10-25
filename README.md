@@ -24,7 +24,7 @@ Integração entre Prolog e Python usando FastAPI, permitindo realizar consultas
 1. **Clone o repositório**:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/BosaP3/integra-o-prolog-python.git
    
 2. **Crie e inicialize um ambiente virtual**:
 
