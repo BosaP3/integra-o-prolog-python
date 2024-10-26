@@ -1,0 +1,6 @@
+# Ignorar arquivos compilados pelo py
+__pycache__/
+*.py[cod]
+
+# Ignorar o ambiente virtual
+venv/
